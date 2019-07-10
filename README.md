@@ -1,2 +1,2 @@
-# Dataquest
-Projects Learned From Data Quest And Some Hands On Practice Projects
+Projects 
+Hands on Project from real world datasets for practice in Python Programming,Pandas,Numpy,SQL,API,Beautiful and statistical analysis .
