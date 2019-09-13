@@ -10,11 +10,7 @@ This includes :
               •	SQL
               
               •	Statistics and Probability concepts
-              
-              •	API 's
-              
-              •	Beautiful Soup
-              
+                          
               
               
 Please check my profile at linkedin:https://www.linkedin.com/in/srividhya-kannan-b04319118
